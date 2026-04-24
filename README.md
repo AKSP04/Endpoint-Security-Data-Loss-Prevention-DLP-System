@@ -59,6 +59,20 @@ When an unauthorized device is detected, the system executes an immediate defens
 - Launch the Employee monitoring service.
 - Insert a USB drive to test the automated trigger.
 
+## 📸 Screenshots
+
+### 1. Admin Control Panel
+![Admin Dashboard](https://github.com/AKSP04/Endpoint-Security-Data-Loss-Prevention-DLP-System/blob/main/Picture1.png)
+*Centralized management for employee data and file allotment.*
+
+### 2. System Landing Page
+![Landing Page](https://github.com/AKSP04/Endpoint-Security-Data-Loss-Prevention-DLP-System/blob/main/Picture2.png)
+*Secure entry portal for Admin and Employee modules.*
+
+### 3. Real-time Threat Alert
+![Email Alert](https://github.com/AKSP04/Endpoint-Security-Data-Loss-Prevention-DLP-System/blob/main/Picture3.png)
+*Instant SMTP notification identifying the unauthorized device and employee.*
+
 ## Future Enhancements
 Encryption: Automatically encrypting files before sending them to employees.
 USB Whitelisting: Allowing specific "safe" USBs while blocking others.
