@@ -74,6 +74,6 @@ When an unauthorized device is detected, the system executes an immediate defens
 *Instant SMTP notification identifying the unauthorized device and employee.*
 
 ## Future Enhancements
-Encryption: Automatically encrypting files before sending them to employees.
-USB Whitelisting: Allowing specific "safe" USBs while blocking others.
-Cloud Logging: Uploading logs to a cloud database instead of just local storage.
+- Encryption: Automatically encrypting files before sending them to employees.
+- USB Whitelisting: Allowing specific "safe" USBs while blocking others.
+- Cloud Logging: Uploading logs to a cloud database instead of just local storage.
